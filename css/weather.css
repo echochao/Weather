@@ -1,0 +1,59 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.icon{
+	background:url(../img/blue22.png);
+	width:20px;
+	height:24px;
+	position:relative;
+	top:5px;
+}
+/*白天图标*/
+.d0{
+	background-position:0px 0px;
+}
+.d1{
+	background-position:-80px 0px;
+}
+.d2{
+	background-position:-160px 0px;
+}
+.d3{
+	background-position:-240px 0px;
+}
+.d4{
+	background-position:-320px 0px;
+}
+.d5{
+	background-position:-400px 0px;
+}
+.d6{
+	background-position:-480px 0px;
+}
+.d7{
+	background-position:-560px 0px;
+}
+/*夜间图标*/
+.n0{
+	background-position:0px 320px;
+}
+.n1{
+	background-position:-80px 320px;
+}
+.n2{
+	background-position:-160px 320px;
+}
+.n3{
+	background-position:-240px 320px;
+}
+.n4{
+	background-position:-320px 320px;
+}
+.n5{
+	background-position:-400px 320px;
+}
+.n6{
+	background-position:-480px 320px;
+}
+.n7{
+	background-position:-560px 320px;
+}

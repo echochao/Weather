@@ -1,0 +1,22 @@
+#box{
+	height: 400px;
+	width: 200px;
+	padding: 20px;
+	border: 1px solid;
+	margin: 50px auto;
+}
+#box>div{
+	margin: 20px 0px;
+}
+select{
+	width: 150px;
+	height: 25px;
+}
+#btn{
+	width: 100px;
+	height: 25px;
+}
+#weather>div{
+	font-size: 1.6rem;
+
+}
